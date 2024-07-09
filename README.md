@@ -1,6 +1,6 @@
 #  <p align="center">machine-translate</p>
 requirements:
-torchmetrics ==0.6.2
+torchmetrics ==0.6.2<br>
 zhconv
 
 该项目是基于facebook开源项目nllb模型开发的机器翻译demo,并基于数据集进行验证翻译结果的准确性。
