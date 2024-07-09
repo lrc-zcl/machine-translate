@@ -1,5 +1,5 @@
 #  <p align="center">machine-translate</p>
-requirements:
+requirements:<br>
 torchmetrics ==0.6.2<br>
 zhconv
 
